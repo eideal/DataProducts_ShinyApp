@@ -1,0 +1,9 @@
+README for DataProducts_ShinyApp
+
+This is code for a simple Shiny application used in my Developing Data Products Slidify presentation. It uses an action button, giving users the choice of one of three options. The selectable options result in unique text output.
+
+----
+Main Output
+----
+
+This application is visible on Slide 4 of this Slidify presentation: http://eideal.github.io/DataProducts_Slidify/index.html.
